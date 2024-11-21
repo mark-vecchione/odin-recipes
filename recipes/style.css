@@ -1,0 +1,15 @@
+h1, h2, h3 {
+    text-align: center;
+}
+
+* {
+    background: beige;
+}
+
+.description {
+    font-style: italic;
+}
+
+ul li {
+    font-weight: bold;
+}
